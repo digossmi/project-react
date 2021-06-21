@@ -1,4 +1,3 @@
-import React from 'react';
 import { Component } from 'react';
 import './styles.css';
 import P from 'prop-types';

@@ -1,4 +1,3 @@
-import React from 'react';
 import P from 'prop-types';
 import { PostCard } from '../PostCard';
 import './styles.css';

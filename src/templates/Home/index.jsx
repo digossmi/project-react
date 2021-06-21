@@ -1,4 +1,3 @@
-import React from 'react';
 import { useCallback, useEffect, useState } from 'react';
 import { Posts } from '../../components/Posts';
 import { loadPosts } from '../../utils/load-posts';
